@@ -42,3 +42,8 @@ This will open your app in your default web browser. You can access it at http:/
 
 [Notes_App.webm](https://github.com/aishwarya-art/NOTES-APP/assets/113532088/78c8b4e4-7675-45d1-bbe5-f70a20a930e6)
 
+### Contributing
+Feel free to contribute to the project by opening issues or pull requests. 
+
+### created by
+Aishwarya MS
