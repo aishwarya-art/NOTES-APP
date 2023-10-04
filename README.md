@@ -18,7 +18,7 @@ Make sure you have Node.js installed on your machine. You can download it from [
 
 1. Clone the repository.
 
-   git clone https://github.com/your-username/react-notes-app.git
+   git clone https://github.com/aishwarya-art/NOTES-APP.git
    
 ### Setting Up the Project
 1.Create React App:
